@@ -4,7 +4,7 @@ import json
 import os
 from datetime import datetime
 
-TOKEN = os.getenv("8823603145:AAHe9yUAPRLoG0JicWIdsh5qQhUU04NaQXg")
+TOKEN = os.getenv("TOKEN")
 
 DATA_FILE = "kassa_ru.json"
 HISTORY_FILE = "history_ru.json"
